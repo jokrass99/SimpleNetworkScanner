@@ -10,7 +10,7 @@ The repository also includes another basic python script for finding the vendor 
 
 __Usage:__
   
-1.  Copy the script with: `git clone https://github.com/jokrass99/SimpleNetworkScanner.git`
+1.  Clone the repository with: `git clone https://github.com/jokrass99/SimpleNetworkScanner.git`
   
 2.  Change to the scripts directory: `cd SimpleNetworkScanner/`
   
