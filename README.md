@@ -8,7 +8,8 @@ The repository also includes another basic python script for finding the vendor 
 __Requirements:__
 
 1. Python 2 & 3 installed
-2. Any Linux distro
+2. scapy installed (installation: `pip install scapy`)
+3. Any Linux distro (also works under Windows)
 
 
 __Usage:__
