@@ -15,7 +15,9 @@ print(r"""
 ╱╱╱╱╱╱╱╱╰╯   >>> SɪᴍᴘʟᴇNᴇᴛᴡᴏʀᴋSᴄᴀɴɴᴇʀ     """)
 
 
-print("\n* GitHub: https://github.com/jokrass99 *")
+print("\n   * GitHub: https://github.com/jokrass99 *")
+
+
 
 ip_add_range_pattern = re.compile("^(?:[0-9]{1,3}\.){3}[0-9]{1,3}/[0-9]*$")
 
