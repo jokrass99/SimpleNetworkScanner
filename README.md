@@ -16,7 +16,7 @@ __Usage:__
   
 3.  Run _NetworkScanner_ script: `python3 ./SimpleNetworkScanner.py`
 
-    Run _MACVendor_ script : `python3 ./MACVendor.py`
+    Run _MACVendor_ script : `python2 ./MACVendor.py`
 
 
 ![NetworkScanner](https://user-images.githubusercontent.com/72883058/111014548-0eb7de80-839c-11eb-840b-ef228a8a6ba9.png)
