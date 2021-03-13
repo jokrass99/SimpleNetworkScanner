@@ -5,6 +5,8 @@ If a valid ip address range was supplied the program will return the list of all
 
 The repository also includes another basic python script for finding the vendor of a MAC address.
 
+
+
 __Usage:__
   
 1.  Copy the script with: `git clone https://github.com/jokrass99/SimpleNetworkScanner.git`
