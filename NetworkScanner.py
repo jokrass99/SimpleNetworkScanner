@@ -15,7 +15,7 @@ print(r"""
 ╱╱╱╱╱╱╱╱╰╯   >>> SɪᴍᴘʟᴇNᴇᴛᴡᴏʀᴋSᴄᴀɴɴᴇʀ     """)
 
 
-print("\n   * GitHub: https://github.com/jokrass99 *")
+print("\n        * GitHub: https://github.com/jokrass99 *")
 
 
 
