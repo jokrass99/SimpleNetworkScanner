@@ -4,8 +4,8 @@ The arping() method in scapy creates a packet with an ARP message and sends it t
 If a valid ip address range was supplied the program will return the list of all results.
 
 Usage:
-1. git clone https://github.com/jokrass99/SimpleNetworkScanner.git
-2. cd SimpleNetworkScanner/
-3. python3 ./SimpleNetworkScanner.py
+1.  git clone https://github.com/jokrass99/SimpleNetworkScanner.git
+2.  cd SimpleNetworkScanner/
+3.  python3 ./SimpleNetworkScanner.py
 
 ![NetworkScanner](https://user-images.githubusercontent.com/72883058/111011091-4c166f00-8390-11eb-839d-a6888c6b97a9.png)
