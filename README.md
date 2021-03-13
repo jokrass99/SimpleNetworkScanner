@@ -7,8 +7,8 @@ The repository also includes another basic python script for finding the vendor 
 
 __Requirements:__
 
-1. Python2 & 3 installed
-2. A Linux distro
+1. Python 2 & 3 installed
+2. Any Linux distro
 
 
 __Usage:__
