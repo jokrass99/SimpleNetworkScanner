@@ -14,5 +14,5 @@ while True:
     if(inp == "y" or inp == "Y"):
       continue
     else:
-      print '\n Ciao!\n'
+      print('\n Ciao!\n')
       break
