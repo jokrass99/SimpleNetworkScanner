@@ -7,7 +7,7 @@ The repository also includes another basic python script for finding the vendor 
 
 __Requirements:__
 
-1. Python 2 & 3 installed
+1. Python 3 installed
 2. scapy installed (installation: `pip install scapy`)
 3. Any Linux distro (also works under Windows)
 
@@ -20,7 +20,7 @@ __Usage:__
   
 3.  Run _NetworkScanner_ script: `python3 ./SimpleNetworkScanner.py`
 
-    Run _MACVendor_ script : `python2 ./MACVendor.py`
+    Run _MACVendor_ script : `python3 ./MACVendor.py`
 
 
 ![NetworkScanner](https://user-images.githubusercontent.com/72883058/111014548-0eb7de80-839c-11eb-840b-ef228a8a6ba9.png)
