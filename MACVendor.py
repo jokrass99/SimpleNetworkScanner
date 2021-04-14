@@ -9,18 +9,33 @@ _____ _____ _____ _____           _
       
       
 while True:
+    
+    print('\n')
+    
+    macInput = input('>>> Please enter the mac address: ')
 
-    print('\n >>> Please enter the mac address: ')
-    macInput = raw_input()
+    print('\n>>> Mac Address Vendor: ')
 
-    print('\n >>> Mac Address Vendor: ')
-
+    print('\n')
+    
+    print('\033[1m')
+    
     os.system('curl http://api.macvendors.com/' + macInput)
 
     print('\n')
-    inp = raw_input('\n >>> Would you like to check another mac address? (y/n): ')
+    
+    print('\033[0m')
+    
+    inp = input('\n>>> Would you like to check another mac address? (y/n): ')
+    
     if(inp == "y" or inp == "Y"):
+      
       continue
+    
     else:
-      print('\n Ciao!\n')
+      
+      print('\n Ciao!')
+      
+      print('\n')
+      
       break
