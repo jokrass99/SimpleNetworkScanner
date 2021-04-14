@@ -12,9 +12,9 @@ while True:
     
     print('\n')
     
-    macInput = input('>>> Please enter the mac address: ')
+    macInput = input('Please enter the mac address: ')
 
-    print('\n>>> Mac Address Vendor: ')
+    print('\nMac Address Vendor: ')
 
     print('\n')
     
@@ -26,7 +26,7 @@ while True:
     
     print('\033[0m')
     
-    inp = input('\n>>> Would you like to check another mac address? (y/n): ')
+    inp = input('\nWould you like to check another mac address? (y/n): ')
     
     if(inp == "y" or inp == "Y"):
       
