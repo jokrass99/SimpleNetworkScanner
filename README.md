@@ -14,7 +14,7 @@ __Requirements:__
 
 __Usage:__
   
-1.  Clone the repository with: `git clone https://github.com/jokrass99/SimpleNetworkScanner.git`
+1.  Clone the repository with: `git clone https://github.com/jokrass99/PythonNetworkScanner.git`
   
 2.  Go to the scripts directory: `cd PythonNetworkScanner/`
   
