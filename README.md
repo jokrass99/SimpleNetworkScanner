@@ -16,8 +16,8 @@ __Usage:__
   
 1.  Clone the repository with: `git clone https://github.com/jokrass99/SimpleNetworkScanner.git`
   
-2.  Go to the scripts directory: `cd SimpleNetworkScanner/`
+2.  Go to the scripts directory: `cd PythonNetworkScanner/`
   
-3.  Run _NetworkScanner_ script: `python3 SimpleNetworkScanner.py`
+3.  Run _NetworkScanner_ script: `python3 NetworkScanner.py`
 
     Run _MACVendor_ script : `python3 MACVendor.py`
